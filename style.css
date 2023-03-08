@@ -1,0 +1,257 @@
+body{
+    margin: 0px;
+    color: aliceblue;
+    background: rgb(9, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title-bar{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background: black;
+}
+.rockstar-logo{
+    position: absolute;
+    height: 39px;
+    margin-left: 715px;
+    margin-top: 14px;
+}
+.menu-logo{
+    height: 27px;
+    margin-left: 83px;
+    margin-top: 20px;
+    position: absolute;
+}
+.profile-logo{
+    margin-left: 1400px;
+    margin-top: 17px;
+}
+.first-img{
+    width: 70%;
+    height: 701px;
+    margin-top: 70px;
+}
+.container1{
+    background: rgb(9, 9, 9);
+}
+.grand{
+    position: absolute;
+    margin-top: -622px;
+    margin-left: 1100px;
+}
+.thenew{
+    position: absolute;
+    margin-top: -585px;
+    margin-left: 1100px;
+    font-size: 35px;
+}
+.watch{
+    position:absolute;
+    margin-top: 339px;
+    margin-left: 50px;
+    padding: 20px 82px;
+    border: 1px solid white;   
+    color:white;
+    background: black;
+}
+.watch:hover{
+    color:black;
+    background: #fcaf17;
+    border:none;
+}
+.new{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.firstbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-left: 67px;
+    margin-top: 80px;
+}
+
+.secondbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+.thirdbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.fourthbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-left: 67px;
+    margin-top: 13px;
+}
+.fifthbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-left: 20px;
+    margin-top: 13px;
+    
+}
+.sixthbox{
+    width: 433px;
+    height: 646px;
+    background: black;
+    border: 1px solid rgb(39, 38, 38);
+    float:left;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+.box{
+    background: rgb(9, 9, 9);
+    text-align: center;
+    margin-top: -92px;
+    cursor: pointer;
+}
+.view{
+    margin-left: 669px;
+    margin-top: 50px;
+    padding: 7px 30px;
+    font-size: large;
+    color: #fff;
+    background: none;
+    border-bottom:5px solid  #fcaf17;
+
+}
+.view:hover{
+    color:  black;
+    background:  #fcaf17;
+    cursor: pointer;
+}
+.featured{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.imgs1{
+    margin-left: 70px;
+}
+.imgs2{
+    margin-left:30px;
+}
+.imgs3{
+    margin-left:30px;
+}
+.imgs4{
+     margin-left:30px;
+}
+.footer{
+    width: 100%;
+    height: 387px;
+    background: black;
+}
+.f1{
+    list-style-type: none;
+    display: flex;
+    padding-top: 70px;
+
+}
+.f1 li{
+    padding-left:40px;
+    font-size: large
+    
+
+}
+.f1 li:hover{
+    cursor: pointer;
+    color: #fcaf17;
+}
+.f2{
+    list-style-type: none;
+    display: flex;
+    padding-top: 70px;
+}
+.f2 li{
+    padding-left:40px;
+    font-size: smaller;
+}
+.f2 li:hover{
+    cursor: pointer;
+    color: #fcaf17;
+}
+.f3{
+    padding-top: 70px;
+    padding-left:75px;
+
+}
+.f4{
+    padding-left: 1300px;
+    position: absolute;
+    margin-top: -240px;
+}
+.f5{
+    width: 130px;
+    padding: 5px;
+    text-align: end;
+    background: transparent;
+    color: white;
+    height: 42px;
+    border-color: black;
+    font-size: larger;
+}
+.f6{
+    padding-left: 1310px;
+    margin-top: -230px;
+    position: absolute;
+}
+.ficons{
+    position: absolute;
+    margin-top: -140px;
+    padding-left: 1293px;
+}
+.yt{
+    position: absolute;
+    margin-left: 52px;
+}
+.fb{
+    position: absolute;
+    margin-left: 116px;
+}
+.twitch{
+    position: absolute;
+    margin-left:-162px;
+}.twit{
+    position: absolute;
+    margin-left:-16px;
+}
+.insta{
+    
+        position: absolute;
+        margin-left:-88px;
+    
+}
+.f7{
+    display: flex;
+    list-style-type: none;
+    margin-top: -40px;
+    margin-left: 536px;
+}
+.f7 li{
+    padding-left: 20px;
+}
+.f8{
+  position: absolute;
+  margin-top: -34px;
+  margin-left: 1334px;
+}
